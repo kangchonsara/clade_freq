@@ -1,0 +1,5 @@
+freuquency quite high.
+But they will not dominate.
+
+Maybe for analysis besides prediction, they can be added to see why they were not 
+no 144k, 142k, 131k before - not very interesting.
